@@ -33,7 +33,7 @@ Developed as a final year B.Tech project in Artificial Intelligence and Data Sci
 3. **Run the project**
 ```python EyeF_model.py```
 
-![Description of Image](ScreenShots/ScreenSho2.png)
+![Description of Image](ScreenShots/ScreenShot2.png)
 
 
 The webcam will start and monitor drowsiness based on eye and head movement.
