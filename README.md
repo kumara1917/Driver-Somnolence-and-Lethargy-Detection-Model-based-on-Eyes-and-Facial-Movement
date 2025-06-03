@@ -32,6 +32,9 @@ Developed as a final year B.Tech project in Artificial Intelligence and Data Sci
 ```pip install -r requirements.txt```
 3. **Run the project**
 ```python EyeF_model.py```
+## 📸 Screenshot
+![Code Sample](ScreenShots/ScreenShot1.png)
+
 
 ![Description of Image](ScreenShots/ScreenShot2.png)
 
