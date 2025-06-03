@@ -40,4 +40,5 @@ Developed as a final year B.Tech project in Artificial Intelligence and Data Sci
 
 
 The webcam will start and monitor drowsiness based on eye and head movement.
+
 ⚠**️ Make sure your webcam is functional and your Python environment is set up correctly.**
